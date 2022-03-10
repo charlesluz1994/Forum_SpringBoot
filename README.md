@@ -8,7 +8,7 @@ Persistência com Spring Data JPA para acesso ao BD, validações com Bean Valid
 
 Spring Scurity para proteger a aplicação, JWT autenticação Stateless
 
-Swagger, com o módulo SpringFox Swagger.
+Documentação em Swagger, com o módulo SpringFox Swagger.
 
 SpringBoot Actuator : monitoramento da API.
 
